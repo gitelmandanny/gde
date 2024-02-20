@@ -5,3 +5,4 @@
 
 
 echo "Deploying to environment ${env:ENV}"
+echo "Uploading artifact to XXXXXX"
