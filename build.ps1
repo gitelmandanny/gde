@@ -1,3 +1,3 @@
 echo "Building package $env:PACKAGE_NAME"
 
-echo "im running tests as new featue"
+echf23o "im running tests as new featue"
